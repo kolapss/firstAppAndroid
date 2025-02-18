@@ -76,7 +76,7 @@ fun BusinessCard() {
             Divider(modifier = Modifier.fillMaxWidth(), thickness = 2.dp, color = Color(0xFF526E7B))
             ContactRow(R.drawable.ic_phone, "+7 (981) 444 555 666")
             Divider(modifier = Modifier.fillMaxWidth(), thickness = 2.dp, color = Color(0xFF526E7B))
-            ContactRow(R.drawable.ic_share, "@SuperAndroidDev")
+            ContactRow(R.drawable.ic_share, "@kolapss")
             Divider(modifier = Modifier.fillMaxWidth(), thickness = 2.dp, color = Color(0xFF526E7B))
             ContactRow(R.drawable.ic_email, "alex@android.com")
         }
